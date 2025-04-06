@@ -1,0 +1,5 @@
+Wind_table for texas
+Unit	Wind Speed (m/s)
+mps	4.63
+kmph	16.668
+mph	10.357040774478978

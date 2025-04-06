@@ -1,0 +1,6 @@
+Weather Data for cairo
+Weather in cairo:
+Temperature: 18.42°C
+Humidity: 36%
+Wind Speed: 6.69 m/s
+Description: clear sky

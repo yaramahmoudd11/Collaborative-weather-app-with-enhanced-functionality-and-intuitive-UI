@@ -1,0 +1,6 @@
+Weather Data for texas
+Weather in texas:
+Temperature: 2.87°C
+Humidity: 48%
+Wind Speed: 4.63 m/s
+Description: clear sky

@@ -1,0 +1,7 @@
+Weather Forecast for texas - Next 5 Days
+Date	Temperature (°C)	Humidity (%)	Description
+2024-01-10	10.48	31.5	few clouds
+2024-01-11	12.14	34.5	overcast clouds
+2024-01-12	7.81	36.62	clear sky
+2024-01-13	5.31	30.62	few clouds
+2024-01-14	9.46	49.75	overcast clouds
